@@ -1,7 +1,7 @@
 #ifndef MODPACK_BAYLIENS
 #define MODPACK_BAYLIENS
 #include "bayliens.dm"
-#include "adherent\_adherent.dm"
+/*#include "adherent\_adherent.dm"
 #include "adherent\datum\culture.dm"
 #include "adherent\datum\emotes.dm"
 #include "adherent\datum\faction.dm"
@@ -11,7 +11,7 @@
 #include "adherent\datum\species_bodytypes.dm"
 #include "adherent\organs\organs_external.dm"
 #include "adherent\organs\organs_internal.dm"
-#include "adherent\organs\prosthetics_manufacturer.dm"
+#include "adherent\organs\prosthetics_manufacturer.dm"*/
 #include "skrell\_skrell.dm"
 #include "skrell\datum\accessory.dm"
 #include "skrell\datum\blood.dm"
